@@ -2,7 +2,7 @@ package condicional;
 
 import java.util.Scanner;
 
-public class fibonacci {
+public class Fibonacci {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
